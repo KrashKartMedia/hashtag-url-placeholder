@@ -21,7 +21,7 @@ This section describes how to install the plugin and get it working.
 = Using The WordPress Dashboard =
 
 1. Navigate to the 'Add New' in the plugins dashboard
-2. Search for 'Query All The Post Types'
+2. Search for 'Hashtag URL Placeholder'
 3. Click 'Install Now'
 4. Activate the plugin on the Plugin dashboard
 
@@ -29,27 +29,24 @@ This section describes how to install the plugin and get it working.
 
 1. Navigate to the 'Add New' in the plugins dashboard
 2. Navigate to the 'Upload' area
-3. Select `query-all-the-post-types.zip` from your computer
+3. Select `hashtag-url-placeholder.zip` from your computer
 4. Click 'Install Now'
 5. Activate the plugin in the Plugin dashboard
 
 = Using FTP =
 
-1. Download `query-all-the-post-types.zip`
-2. Extract the `query-all-the-post-types` directory to your computer
-3. Upload the `query-all-the-post-types` directory to the `/wp-content/plugins/` directory
+1. Download `hashtag-url-placeholder.zip`
+2. Extract the `hashtag-url-placeholder` directory to your computer
+3. Upload the `hashtag-url-placeholder` directory to the `/wp-content/plugins/` directory
 4. Activate the plugin in the Plugin dashboard
 
 == Screenshots ==
 
-1. Plugin page shows you a list of all the post types.
+1. Define Your Own Hashtag and pick a post type.
+2. Create a Custom Menu Item and replace the URL with your Hashtag. The title of the item can be anything that you want.
 
 == Changelog ==
-
-= 1.1 =
-*Was adding a menu item for the settings page. Now, the plugin creates a menu options page. Visit Settings > Query The CPT’s
-
 = 1.0 =
-*Release Date - 11th January, 2016*
+*Release Date - 13th April, 2016*
 
 * First release *
