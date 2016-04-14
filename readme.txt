@@ -12,7 +12,9 @@ Create your own #Hashtag that links to the most recent published post, in a post
 
 == Description ==
 
-Have you ever wanted to link directly to the lastest post in a post type, with out having to update your menu each time that you publish a post? Now you can use a #Hashtag inside of a custom menu item's url. The custom menu item links to the latest post in a post type that you choose. 
+Have you ever wanted to link directly to the lastest post in a post type, with out having to update your menu? Now you can use a #Hashtag inside of a custom menu item's url. The custom menu item links to the latest post in a post type that you choose. 
+
+Let's say you have a custom post type called "News Updates". Each time you publish a new blog post, your Hashtag link will directly to the latest post in News Updates.
 
 == Installation ==
 
