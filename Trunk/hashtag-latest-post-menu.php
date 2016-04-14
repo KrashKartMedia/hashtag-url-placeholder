@@ -15,9 +15,6 @@
     exit;
   }
 
-  //give me a version number
-  $version = 'Version 1.0';
-
  //here is where we the post types thanks to https://codex.wordpress.org/Function_Reference/get_post_types
   function get_all_the_post_types_function() {
     $all_post_types = get_post_types();
