@@ -6,7 +6,7 @@
     * Version:     1.0
     * Author:      Russell Aaron
     * Author URI:  http://russellenvy.com
-    * Text Domain: query_all_the_post_types
+    * Text Domain: hashtag-url-placeholder
     * License: GPL2
     * GitHub Plugin URI: https://github.com/KrashKartMedia/hashtag-url-placeholder
 */
