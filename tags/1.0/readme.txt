@@ -3,7 +3,7 @@ Contributors: GeekStreetWP
 Author URI: http://russellenvy.com
 Tags: links, link, url, hashtag, menu, simple, custom, custom post type, admin
 Requires at least: 4.1
-Tested up to: 4.5
+Tested up to: 4.6
 Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

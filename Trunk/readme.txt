@@ -3,12 +3,12 @@ Contributors: GeekStreetWP
 Author URI: http://russellenvy.com
 Tags: links, link, url, hashtag, menu, simple, custom, custom post type, admin
 Requires at least: 4.1
-Tested up to: 4.5
-Stable tag: 1.0
+Tested up to: 4.6.1
+Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Create your own #Hashtag that links to the most recent published post, in a post type.
+Create your own #Hashtag menu item linking to the most recent published post, in a post type.
 
 == Description ==
 
@@ -48,7 +48,14 @@ This section describes how to install the plugin and get it working.
 2. Create a Custom Menu Item and replace the URL with your Hashtag. The title of the item can be anything that you want.
 
 == Changelog ==
-= 1.0 =
-*Release Date - 13th April, 2016*
 
-* First release *
+= 1.1 =
+* Separated plugin into differnt files for easier debugging and building.
+* Added settings link on wp-admin/plugins.php
+* Added Uninstall.php file to delete settings in the wp_options table upon deleting plugin. Very Important.
+* Updated version and tested.
+
+= 1.0 =
+* Release Date - 13th April, 2016
+
+* First release
